@@ -12,37 +12,37 @@
 
 ## **Subject Management:**
 
-Load subject information from a CSV file.
-Add new subjects to the system.
-Store subject information in memory.
-Export updated subject information to a CSV file.
-Display a list of subjects with their details.
+- Load subject information from a CSV file.
+- Add new subjects to the system.
+- Store subject information in memory.
+- Export updated subject information to a CSV file.
+- Display a list of subjects with their details.
 
 ## **Student Management:**
 
-Load student information from a CSV file.
-Add new students to the system.
-Store student information in memory.
-Export updated student information to a CSV file.
-Display a list of students with their details.
+- Load student information from a CSV file.
+- Add new students to the system.
+- Store student information in memory.
+- Export updated student information to a CSV file.
+- Display a list of students with their details.
 
 ## **Enrollment and Grade Management:**
 
-Enroll students in subjects.
-Enter grades for students in their enrolled subjects.
-Calculate the average grade for each subject.
-Display the average grade for each subject.
+- Enroll students in subjects.
+- Enter grades for students in their enrolled subjects.
+- Calculate the average grade for each subject.
+- Display the average grade for each subject.
 
 ## **Additional Considerations:**
 
-Validate user input for data integrity.
-Handle errors gracefully and provide appropriate error messages.
-Implement a user-friendly menu-driven interface.
-Consider sorting and searching functionality for subjects and students.
-Optimize for performance and memory usage.
-Properly document the code with comments.
-Adhere to good programming practices.
-Test the program with various scenarios.
+- Validate user input for data integrity.
+- Handle errors gracefully and provide appropriate error messages.
+- Implement a user-friendly menu-driven interface.
+- Consider sorting and searching functionality for subjects and students.
+- Optimize for performance and memory usage.
+- Properly document the code with comments.
+- Adhere to good programming practices.
+- Test the program with various scenarios.
 
 ## **Student Information:**
 
