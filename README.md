@@ -47,25 +47,39 @@ Test the program with various scenarios.
 ## **Student Information:**
 
 Name
+
 Student ID
+
 Date of Birth
+
 Gender
+
 Faculty
+
 Year
+
 GPA
+
 Subject List (optional)
 
 ## **Subject Information:**
 
 Subject Name
+
 Subject ID
+
 Subject Credit
+
 Required Year Level
 
-# **Class Information:**
+## **Class Information:**
 
 Class ID
+
 Subject ID
+
 Max Number of Students
+
 Number of Registrations
+
 Open Status
